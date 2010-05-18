@@ -1,3 +1,6 @@
 This is based on http://www.marcofolio.net/webdesign/creating_a_polaroid_photo_viewer_with_css3_and_jquery.html
 
 I change to fit the parent element, and google AJAX api no longer in use.
+
+Example
+	Please see the index.htm and example2.htm
